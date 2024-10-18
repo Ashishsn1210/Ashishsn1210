@@ -1,7 +1,7 @@
 # Hi 👋, I am Ashish S N
 
 ## 👨🏻 About Me
-I am passionate about data science and analytics and I love uncovering insights to solve real-world problems. I specialize in using tools like Excel, SQL, Python, and Power BI. I have showcased my skills in Data Analysis by doing projects across multiple domains, which you can find here. I have strong skills in understanding, analyzing and visualizing data & building interactive dashboards.
+I am passionate about data science and analytics. I love uncovering patterns, trends and insights to solve real-world problems. I specialize in using tools like Excel, SQL, Python, and Power BI. I have showcased my skills in Data Analysis by doing projects across multiple domains, which you can find here. I have strong skills in understanding, analyzing and visualizing data & building interactive dashboards.
 
 ## 🛠️ Skills
 - #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
