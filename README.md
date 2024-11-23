@@ -22,7 +22,7 @@ I am passionate about data science and analytics. I get fascinated to work on un
 
 
 ## 🧐 Currently Working On
-- Data Visualization, building dashboards using Power BI.
+- Data Visualization, building dashboards using Tableau and Power BI.
 - Complex analytics projects.
   
 
