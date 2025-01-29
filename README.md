@@ -1,11 +1,11 @@
 # Hi 👋, I am Ashish S N
 
 ## 👨🏻 About Me
-I am passionate about data science and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve real-world problems. I am specialized in using tools like Excel, SQL, Python, Tableau and Power BI. I have showcased my proficiency in data analysis by doing projects across multiple domains, which you can find in my repositories. I have a strong skill set  in understanding, analyzing and visualizing data & also building interactive dashboards.
+I am passionate about data and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve real-world problems. I am specialized in using tools like Excel, SQL, Tableau and Power BI. I have showcased my proficiency in problem-solving and analysis by doing projects across multiple domains. I have a strong skills in understanding, analyzing and visualizing data along with building interactive dashboards.
 
 
 ## 🛠️ Skills
-- #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 - #### Analysis: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
 
@@ -18,11 +18,12 @@ I am passionate about data science and analytics. I get fascinated to work on un
 
 ## ✏️ Learning
 - Building Machine Learning and Deep Learning models.
+- Dashboards using Tableau
 - Neural Networks and AI.
 
 
 ## 🧐 Currently Working On
-- Data Visualization, building dashboards using Tableau and Power BI.
+- Data Visualization, building dashboards using Tableau.
 - Complex analytics projects.
   
 
