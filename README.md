@@ -1,7 +1,7 @@
 # Hi 👋, I am Ashish S N
 
 ## 👨🏻 About Me
-I am passionate about data and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve real-world problems. I am specialized in using tools like Excel, SQL, Tableau and Power BI. I have showcased my proficiency in problem-solving and analysis by doing projects across multiple domains. I have a strong skills in understanding, analyzing and visualizing data along with building interactive dashboards.
+I am passionate about data and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve real-world problems. I am specialized in using tools like Excel, SQL, Python and Tableau. I have a strong skills in understanding, analyzing and visualizing data along with building interactive dashboards.
 
 
 ## 🛠️ Skills
@@ -18,13 +18,11 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 ## ✏️ Learning
 - Building Machine Learning and Deep Learning models.
-- Dashboards using Tableau
-- Neural Networks and AI.
+- Building dashboards using Tableau
 
 
 ## 🧐 Currently Working On
 - Data Visualization, building dashboards using Tableau.
-- Complex analytics projects.
   
 
 ## 🤝 Connect With Me
