@@ -17,8 +17,10 @@ I build data dashboards and business automation systems that help companies trac
 - Building dashboards using Tableau
 
 
-## 🧐 Currently Working On
-- Data Visualization, building dashboards using Tableau.
+## 🚧 Currently Working On
+• Building business dashboards using Tableau
+• Creating automation apps using Google AppSheet
+• Developing portfolio projects focused on solving operational business problems
   
 
 ## 🤝 Connect With Me
