@@ -7,9 +7,7 @@ I am a Data Analyst who enjoys solving real business problems using data and aut
 I specialize in building:
 
 • Interactive dashboards for business insights
-
 • Operational tracking systems using AppSheet
-
 • Automated workflows to reduce manual work
 
 I work with tools like Excel, Google Sheets, SQL, and BI tools to transform raw data into actionable insights.
