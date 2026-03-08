@@ -14,7 +14,7 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 - #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-- #### Additional: ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- #### Additional: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
 
 
 ## ✏️ Learning
