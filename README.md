@@ -12,9 +12,7 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 - #### Database: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=pos🧐tgresql&logoColor=white)
 
-- #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-
-- #### Additional: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+- #### Other: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue) ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
 
 
 ## ✏️ Learning
