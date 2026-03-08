@@ -1,7 +1,7 @@
 # Hi 👋, I am Ashish S N
 
 ## 👨🏻 About Me
-I am passionate about data and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve real-world problems. I am specialized in using tools like Excel, SQL, Python and Tableau. I have a strong skills in understanding, analyzing and visualizing data along with building interactive dashboards.
+I am passionate about data and analytics. I get fascinated to work on uncovering patterns, trends and insights to solve problems. I am specialized in using tools like Microsoft Excel, Google Sheets, Looker Studio, and SQL. I have a strong ability to analyze, visualize, and interpret data to build interactive dashboards that drive decision-making.
 
 
 ## 🛠️ Skills
