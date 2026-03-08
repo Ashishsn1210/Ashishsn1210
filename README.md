@@ -8,7 +8,7 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 - #### Spreadsheets: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Sheets)
 
-- #### Visualization: ![Static Badge](https://img.shields.io/badge/Looker%20Studio-blue) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Static Badge](https://img.shields.io/badge/Power%20BI-yellow) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
+- #### Visualization: ![Static Badge](https://img.shields.io/badge/Looker%20Studio-blue) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
 
 - #### Database: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=pos🧐tgresql&logoColor=white)
 
