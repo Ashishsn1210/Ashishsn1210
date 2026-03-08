@@ -6,8 +6,7 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 ## 🛠️ Skills
 
-- #### Spreadsheets: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/GoogleSheets-Sheets)
-
+- #### Spreadsheets: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Sheets)
 
 - #### Database: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=pos🧐tgresql&logoColor=white)
 
