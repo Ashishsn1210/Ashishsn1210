@@ -8,9 +8,9 @@ I am passionate about data and analytics. I get fascinated to work on uncovering
 
 - #### Spreadsheets: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Sheets)
 
-- #### Database: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=pos🧐tgresql&logoColor=white)
-
 - #### Visualization: ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Matplotlib](https://camo.githubusercontent.com/6acad584396355bc211b3d3f61d004700c069a54e6ee25729fc7dea593510c83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3030374143433f7374796c653d666c6174266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465) ![Seaborn](https://camo.githubusercontent.com/f2d9385494d686e5b4e81dcdb5b00321763879c0f9024538e3e56f3c4ec4c54d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+
+- #### Database: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=pos🧐tgresql&logoColor=white)
 
 - #### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
