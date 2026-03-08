@@ -7,7 +7,11 @@ I build data dashboards and business automation systems that help companies trac
 - #### Data Visualization: ![Static Badge](https://img.shields.io/badge/Looker%20Studio-blue) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
 - #### Automation & App Development: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue)
 - #### Tools: ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Static Badge](https://img.shields.io/badge/GitHub-gray) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-  
+
+
+## 🚀 Projects
+- Tool Management System: A no-code manufacturing tool tracking system built using AppSheet.
+
 
 ## 💼 Services I Offer
 - Data analysis using Excel, Google Sheets and SQL
@@ -23,7 +27,6 @@ I build data dashboards and business automation systems that help companies trac
   
 
 ## 🤝 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashishsn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Ashishsn1210)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](ashishsn1210@gmail.com)
