@@ -12,15 +12,11 @@ I build data dashboards and business automation systems that help companies trac
 
 - #### Tools: ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Static Badge](https://img.shields.io/badge/GitHub-gray) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## ✏️ Learning
-- Building Machine Learning and Deep Learning models.
-- Building dashboards using Tableau
-
 
 ## 🚧 Currently Working On
-• Building business dashboards using Tableau
-• Creating automation apps using Google AppSheet
-• Developing portfolio projects focused on solving operational business problems
+- Building business dashboards using BI tools
+- Creating automation apps using Google AppSheet
+- Developing portfolio projects focused on solving operational business problems
   
 
 ## 🤝 Connect With Me
