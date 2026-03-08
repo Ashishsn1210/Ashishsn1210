@@ -1,21 +1,6 @@
 # Hi 👋, I am Ashish S N
-I build data dashboards and business automation systems that help companies track operations and make better decisions.
+I build data dashboards and business automation systems that help companies track operations and make better decisions. I work with tools like Excel, Google Sheets, SQL, and BI tools to transform raw data into actionable insights.
 
-## 👨🏻 About Me
-I am a Data Analyst who enjoys solving real business problems using data and automation.
-
-I specialize in building:
-
-• Interactive dashboards for business insights
-• Operational tracking systems using AppSheet
-• Automated workflows to reduce manual work
-
-I work with tools like Excel, Google Sheets, SQL, and BI tools to transform raw data into actionable insights.
-
-I am particularly interested in building internal tools for businesses such as:
-• Inventory systems
-• Operations dashboards
-• Workflow automation apps
 
 ## 🛠️ Skills
 
