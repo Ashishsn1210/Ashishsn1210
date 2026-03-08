@@ -10,7 +10,7 @@ I build data dashboards and business automation systems that help companies trac
 
 - #### Automation & App Development: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue)
 
-- #### Tools: ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Static Badge](https://img.shields.io/badge/GitHub-black) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- #### Tools: ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Static Badge](https://img.shields.io/badge/GitHub-gray) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## ✏️ Learning
 - Building Machine Learning and Deep Learning models.
