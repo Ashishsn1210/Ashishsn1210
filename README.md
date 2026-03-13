@@ -1,4 +1,4 @@
-# Hi 👋, I am Ashish S N
+# Hi👋, I am Ashish S N
 I build data dashboards and business automation systems that help companies track operations and make better decisions. I work with tools like Excel, Google Sheets, SQL, and BI tools to transform raw data into actionable insights.
 
 
