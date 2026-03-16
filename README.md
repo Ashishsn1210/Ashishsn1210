@@ -11,10 +11,13 @@ I build KPI dashboards and business automation systems that help companies track
 
 ## 🚀 Projects
 - Tool Management System: A manufacturing tool tracking application built using AppSheet.
-  🔗 https://github.com/Ashishsn1210/Tool-Management-System
+
+🔗 https://github.com/Ashishsn1210/Tool-Management-System
 - Operations Performance Monitoring and Quality Rejection Dashboard using Looker Studio.
+
   🔗 https://github.com/Ashishsn1210/Operations-Performance-and-Quality-Analytics-System
 - On-time Delivery (OTD) Performance Dashboard using Looker Studio.
+
   🔗 https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard
 
 ## 💡 Applications & Analytics Solutions
