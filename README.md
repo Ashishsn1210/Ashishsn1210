@@ -15,12 +15,30 @@ I build data dashboards and business automation systems that help companies trac
 - On-time Delivery (OTD) Performance Dashboard using Looker Studio. ![OTD](https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard)
 
 
-## 💼 Services I Offer
-- Data analysis using Excel, Google Sheets and SQL
-- KPI Dashboard creation (Looker Studio, Power BI)
-- Building apps using AppSheet
-- Inventory and operations tracking systems
-  
+## 💡 Applications & Analytics Solutions
+The projects in this portfolio demonstrate the types of operational analytics systems and data solutions I design and build. These solutions focus on improving operational visibility, automating reporting workflows, and enabling data-driven decision-making for business teams.
+
+#### Operations Analytics Dashboards
+Development of KPI dashboards that help organizations monitor operational performance, track trends, and identify bottlenecks.
+
+Example:
+- Operations Performance Monitoring Dashboard
+- On-Time Delivery (OTD) Performance Dashboard
+
+#### Internal Operations Management Applications
+Development of lightweight internal tools that help teams track operational
+activities, inventory, approvals, and workflows.
+
+Example:
+- Tool Management System (TMS) – Internal operations application built using AppSheet
+
+#### Reporting Automation & Data Workflows
+Design of automated reporting workflows that replace manual spreadsheet
+reporting and streamline recurring analytics processes.
+
+Example:
+- Automated Excel/Google Sheets reporting workflows
+- Data validation and standardized reporting structures
 
 ## 🚧 Currently Working On
 - Building business dashboards using BI tools
