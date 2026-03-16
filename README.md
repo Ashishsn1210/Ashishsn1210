@@ -10,7 +10,7 @@ I build data dashboards and business automation systems that help companies trac
 
 
 ## 🚀 Projects
-- Tool Management System: A no-code manufacturing tool tracking application built using AppSheet. ![TMS](https://github.com/Ashishsn1210/Tool-Management-System)
+- Tool Management System: A manufacturing tool tracking application built using AppSheet. ![TMS](https://github.com/Ashishsn1210/Tool-Management-System)
 - Operations Performance Monitoring and Quality Rejection Dashboard using Looker Studio. ![O&Q](https://github.com/Ashishsn1210/Operations-Performance-and-Quality-Analytics-System)
 - On-time Delivery (OTD) Performance Dashboard using Looker Studio. ![OTD](https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard)
 
