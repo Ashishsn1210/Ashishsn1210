@@ -15,14 +15,14 @@ I build data dashboards and business automation systems that help companies trac
 
 ## 💼 Services I Offer
 - Data analysis using Excel, Google Sheets and SQL
-- Dashboard creation (Looker Studio, Tableau, Power BI)
+- KPI Dashboard creation (Looker Studio, Power BI)
 - Building apps using AppSheet
 - Inventory and operations tracking systems
   
 
 ## 🚧 Currently Working On
 - Building business dashboards using BI tools
-- Creating automation apps using Google AppSheet
+- Creating applications using Google AppSheet
 - Developing portfolio projects focused on solving operational business problems
   
 
