@@ -1,5 +1,7 @@
 # Hi👋, I am Ashish S N
-I build KPI dashboards and business automation systems that help companies track operations and make better decisions. I work with tools like Excel, Google Sheets, SQL, and BI tools to transform raw data into actionable insights.
+I build KPI dashboards and operational analytics systems that help companies monitor performance, automate reporting, and make data-driven decisions.
+
+My work focuses on solving real business problems such as operational performance monitoring, delivery reliability analysis, and workflow automation using tools like Excel, Google Sheets, SQL, and BI platforms.
 
 
 ## 🛠️ Skills
