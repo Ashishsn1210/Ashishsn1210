@@ -56,6 +56,6 @@ Example:
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashishsn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Ashishsn1210)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](ashishsn1210@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ashishsn1210@gmail.com)
 
 📬 I am open to Freelance Opportunities
