@@ -8,7 +8,7 @@ My work focuses on solving real business problems such as operational performanc
 - #### Data Analysis: ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-Sheets) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 - #### Data Visualization: ![Static Badge](https://img.shields.io/badge/Looker%20Studio-blue) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
 - #### App Development: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue)
-- #### Other Tools: ![Static Badge](https://img.shields.io/badge/ChatGPT-white) ![Static Badge](https://img.shields.io/badge/Canva-purple) ![Static Badge](https://img.shields.io/badge/GitHub-gray)
+- #### Other Tools: ![Static Badge](https://img.shields.io/badge/ChatGPT-white) ![Static Badge](https://img.shields.io/badge/GitHub-gray)
 
 
 ## 🚀 Projects
