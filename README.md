@@ -26,15 +26,13 @@ Example:
 - On-Time Delivery (OTD) Performance Dashboard
 
 #### Internal Operations Management Applications
-Development of lightweight internal tools that help teams track operational
-activities, inventory, approvals, and workflows.
+Development of internal tools/applications that help teams track operational activities, inventory, approvals, and workflows.
 
 Example:
 - Tool Management System (TMS) – Internal operations application built using AppSheet
 
 #### Reporting Automation & Data Workflows
-Design of automated reporting workflows that replace manual spreadsheet
-reporting and streamline recurring analytics processes.
+Design of automated reporting workflows that replace manual spreadsheet reporting and streamline recurring analytics processes.
 
 Example:
 - Automated Excel/Google Sheets reporting workflows
