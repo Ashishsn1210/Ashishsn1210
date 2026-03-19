@@ -49,8 +49,8 @@ Example:
 
 ## 🚧 Currently Working On
 - Building business dashboards using BI tools
+- Automating business workflows and reports using AI tools
 - Creating applications using Google AppSheet
-- Developing portfolio projects focused on solving operational business problems
   
 
 ## 🤝 Connect With Me
