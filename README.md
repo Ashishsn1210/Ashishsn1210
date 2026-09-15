@@ -13,7 +13,9 @@ My work focuses on solving real business problems such as operational performanc
 
 ## 🚀 Projects
 **🔧 Tool Management System**
+
 **AppSheet | Google Sheets | Workflow Automation**
+
 Built an internal tool-management application for tracking tool inventory, procurement, issue/return transactions, and tool lifecycle in a manufacturing environment.
 
 Link: https://github.com/Ashishsn1210/Tool-Management-System
