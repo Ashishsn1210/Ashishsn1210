@@ -7,8 +7,8 @@ My work focuses on solving real business problems such as operational performanc
 ## 🛠️ Skills
 - #### Data & Analytics: ![Static Badge](https://img.shields.io/badge/Advanced%20Excel-darkgreen?style=flat&logo=googlesheets&logoColor=white) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-green?style=flat&logo=googlesheets&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQL-lightblue?style=flat&logo=mysql&logoColor=black) ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 - #### Business Interlligence: ![Static Badge](https://img.shields.io/badge/Looker%20Studio-blue?style=flat&logo=looker&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-- #### Automation & App Dev: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue)
-- #### Other Tools: ![Static Badge](https://img.shields.io/badge/ChatGPT-white) ![Static Badge](https://img.shields.io/badge/GitHub-gray)
+- #### Automation & App Dev: ![Static Badge](https://img.shields.io/badge/App%20Sheet-darkblue) ![Static Badge](https://img.shields.io/badge/Reporting%20Automation-blue?style=flat)
+- #### AI & Productivity Tools: ![Static Badge](https://img.shields.io/badge/ChatGPT-white) ![Static Badge](https://img.shields.io/badge/Claude-orange?style=flat) ![Static Badge](https://img.shields.io/badge/GitHub-gray)
 
 
 ## 🚀 Projects
