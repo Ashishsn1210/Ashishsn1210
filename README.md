@@ -12,19 +12,17 @@ My work focuses on solving real business problems such as operational performanc
 
 
 ## 🚀 Projects
-**🔧 Tool Management System** (AppSheet | Google Sheets | Workflow Automation)
-
-- Built an internal tool-management application for tracking tool inventory, procurement, issue/return transactions, and tool lifecycle in a manufacturing environment.
+**🔧 Tool Management System**
 
 - Link: https://github.com/Ashishsn1210/Tool-Management-System
 
-- Operations Performance Monitoring and Quality Rejection Dashboard using Looker Studio.
+**📊 Operations Performance Monitoring and Quality Rejection Dashboard**
 
-  Link: https://github.com/Ashishsn1210/Operations-Performance-and-Quality-Analytics-System
+- Link: https://github.com/Ashishsn1210/Operations-Performance-and-Quality-Analytics-System
 
-- On-time Delivery (OTD) Performance Dashboard using Looker Studio.
+**📊 On-time Delivery (OTD) Performance Dashboard**
 
-  Link: https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard
+- Link: https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard
 
 ## 💡 Applications & Analytics Solutions
 The projects in this portfolio demonstrate the types of operational analytics systems and data solutions I design and build. These solutions focus on improving operational visibility, automating reporting workflows, and enabling data-driven decision-making for business teams.
