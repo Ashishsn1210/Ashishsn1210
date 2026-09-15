@@ -23,35 +23,12 @@ My work focuses on solving real business problems such as operational performanc
 **📊 On-time Delivery (OTD) Performance Dashboard**
 
 - Link: https://github.com/Ashishsn1210/On-Time-Delivery-Performance-Analytics-Dashboard
-
-## 💡 Applications & Analytics Solutions
-The projects in this portfolio demonstrate the types of operational analytics systems and data solutions I design and build. These solutions focus on improving operational visibility, automating reporting workflows, and enabling data-driven decision-making for business teams.
-
-#### Operations Analytics Dashboards
-Development of KPI dashboards that help organizations monitor operational performance, track trends, and identify bottlenecks.
-
-Example:
-- Operations Performance Monitoring Dashboard
-- On-Time Delivery (OTD) Performance Dashboard
-
-#### Internal Operations Management Applications
-Development of internal tools/applications that help teams track operational activities, inventory, approvals, and workflows.
-
-Example:
-- Tool Management System (TMS) – Internal operations application built using AppSheet
-
-#### Reporting Automation & Data Workflows
-Design of automated reporting workflows that replace manual spreadsheet reporting and streamline recurring analytics processes.
-
-Example:
-- Automated Excel/Google Sheets reporting workflows
-- Data validation and standardized reporting structures
+  
 
 ## 🚧 Currently Working On
-- Building business dashboards using BI tools
-- Automating business workflows and reports using AI tools
-- Creating applications using Google AppSheet
-- Building workflow automations using Make & Zapier
+- Building dashboards using BI tools
+- Automating reporting and workflows
+- Exploring AI-assisted business process automation
   
 
 ## 🤝 Connect With Me
