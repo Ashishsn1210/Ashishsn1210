@@ -1,7 +1,5 @@
 # Hi👋, I am Ashish S N
-I automate workflows, build KPI dashboards and operational analytics systems that help companies monitor performance, automate reporting & workflows, save time and make data-driven decisions.
-
-My work focuses on solving real business problems such as operational performance monitoring and AI & workflow automation using tools like Excel, Google Sheets, SQL, BI platforms, and AI tools like Zapier/Make.
+I transform business data into actionable insights through reports, dashboards, KPIs, and operational analytics solutions that help organizations monitor performance, identify trends, and make informed decisions. I also build workflow and reporting automations that improve efficiency and support better business outcomes.
 
 
 ## 🛠️ Skills
