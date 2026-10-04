@@ -1,5 +1,5 @@
 # Hi👋, I am Ashish S N
-I transform business data into actionable insights through reports, dashboards, KPIs, and operational analytics solutions that help organizations monitor performance, identify trends, and make informed decisions. I also build workflow and reporting automations that improve efficiency and support better business outcomes.
+I am a Data Analyst with 2.5+ years of experience transforming data into dashboards, reports and process improvements that support faster, data-driven decision-making.
 
 
 ## 🛠️ Skills
